@@ -1,0 +1,10 @@
+AR register_file behavioral //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/register_file.vhd sub00/vhpl09 1455291849
+AR mux2_16bit behavioral //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/mux2_16bit.vhd sub00/vhpl05 1455291845
+EN decoder_3_to_8 NULL //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/decoder_3_to_8.vhd sub00/vhpl02 1455291842
+AR decoder_3_to_8 dataflow_1 //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/decoder_3_to_8.vhd sub00/vhpl03 1455291843
+EN reg16 NULL //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/reg16.vhd sub00/vhpl00 1455291840
+AR reg16 behavioral //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/reg16.vhd sub00/vhpl01 1455291841
+EN register_file NULL //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/register_file.vhd sub00/vhpl08 1455291848
+AR mux8_16bit behavioral //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/mux8_16bit.vhd sub00/vhpl07 1455534256
+EN mux8_16bit NULL //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/mux8_16bit.vhd sub00/vhpl06 1455534255
+EN mux2_16bit NULL //tholos.itserv.scss.tcd.ie/ugrad/agnewl/Project-1-Datapath-Design-Part-A/mux2_16bit.vhd sub00/vhpl04 1455291844
